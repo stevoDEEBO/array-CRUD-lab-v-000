@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  that_array = [toot, burp, squeak, thump]
+  that_array = []
 end
 
 def add_element_to_end_of_array(array, element)
